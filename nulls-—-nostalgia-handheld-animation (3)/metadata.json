@@ -1,6 +1,0 @@
-{
-  "name": "NULLS — Nostalgia Handheld Animation",
-  "description": "Animasi interaktif bernuansa nostalgia konsol handheld retro dengan karakter di dalam kereta senja dan layar boot NULLS.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
